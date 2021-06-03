@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/todo_Api_Project/static/css/main.a5394df8.chunk.css",
+    "main.js": "/todo_Api_Project/static/js/main.feba12fe.chunk.js",
+    "main.js.map": "/todo_Api_Project/static/js/main.feba12fe.chunk.js.map",
+    "runtime-main.js": "/todo_Api_Project/static/js/runtime-main.130bf17c.js",
+    "runtime-main.js.map": "/todo_Api_Project/static/js/runtime-main.130bf17c.js.map",
+    "static/css/2.61b4cb56.chunk.css": "/todo_Api_Project/static/css/2.61b4cb56.chunk.css",
+    "static/js/2.c274d941.chunk.js": "/todo_Api_Project/static/js/2.c274d941.chunk.js",
+    "static/js/2.c274d941.chunk.js.map": "/todo_Api_Project/static/js/2.c274d941.chunk.js.map",
+    "static/js/3.9b53a933.chunk.js": "/todo_Api_Project/static/js/3.9b53a933.chunk.js",
+    "static/js/3.9b53a933.chunk.js.map": "/todo_Api_Project/static/js/3.9b53a933.chunk.js.map",
+    "index.html": "/todo_Api_Project/index.html",
+    "static/css/2.61b4cb56.chunk.css.map": "/todo_Api_Project/static/css/2.61b4cb56.chunk.css.map",
+    "static/css/main.a5394df8.chunk.css.map": "/todo_Api_Project/static/css/main.a5394df8.chunk.css.map",
+    "static/js/2.c274d941.chunk.js.LICENSE.txt": "/todo_Api_Project/static/js/2.c274d941.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.130bf17c.js",
+    "static/css/2.61b4cb56.chunk.css",
+    "static/js/2.c274d941.chunk.js",
+    "static/css/main.a5394df8.chunk.css",
+    "static/js/main.feba12fe.chunk.js"
+  ]
+}
