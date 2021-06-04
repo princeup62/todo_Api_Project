@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/todo_Api_Project/static/css/main.cf54a20d.chunk.css",
-    "main.js": "/todo_Api_Project/static/js/main.52c8ae7b.chunk.js",
-    "main.js.map": "/todo_Api_Project/static/js/main.52c8ae7b.chunk.js.map",
+    "main.css": "/todo_Api_Project/static/css/main.baa8dea1.chunk.css",
+    "main.js": "/todo_Api_Project/static/js/main.718dd96e.chunk.js",
+    "main.js.map": "/todo_Api_Project/static/js/main.718dd96e.chunk.js.map",
     "runtime-main.js": "/todo_Api_Project/static/js/runtime-main.0679a727.js",
     "runtime-main.js.map": "/todo_Api_Project/static/js/runtime-main.0679a727.js.map",
     "static/css/2.56001c6a.chunk.css": "/todo_Api_Project/static/css/2.56001c6a.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.3ad9fdf5.chunk.js.map": "/todo_Api_Project/static/js/3.3ad9fdf5.chunk.js.map",
     "index.html": "/todo_Api_Project/index.html",
     "static/css/2.56001c6a.chunk.css.map": "/todo_Api_Project/static/css/2.56001c6a.chunk.css.map",
-    "static/css/main.cf54a20d.chunk.css.map": "/todo_Api_Project/static/css/main.cf54a20d.chunk.css.map",
+    "static/css/main.baa8dea1.chunk.css.map": "/todo_Api_Project/static/css/main.baa8dea1.chunk.css.map",
     "static/js/2.ea4586b0.chunk.js.LICENSE.txt": "/todo_Api_Project/static/js/2.ea4586b0.chunk.js.LICENSE.txt",
     "static/media/Hourglass.9339400d.gif": "/todo_Api_Project/static/media/Hourglass.9339400d.gif"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.0679a727.js",
     "static/css/2.56001c6a.chunk.css",
     "static/js/2.ea4586b0.chunk.js",
-    "static/css/main.cf54a20d.chunk.css",
-    "static/js/main.52c8ae7b.chunk.js"
+    "static/css/main.baa8dea1.chunk.css",
+    "static/js/main.718dd96e.chunk.js"
   ]
 }
